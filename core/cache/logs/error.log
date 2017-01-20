@@ -1,0 +1,44 @@
+[2017-01-19 20:13:02] (ERROR @ /var/www/staticPageEnvdApi/core/xpdo/om/xpdoobject.class.php : 240) Error 42S22 executing statement: 
+Array
+(
+    [0] => 42S22
+    [1] => 1054
+    [2] => Unknown column 'sortorder' in 'order clause'
+)
+
+[2017-01-19 20:15:01] (ERROR @ /var/www/staticPageEnvdApi/core/xpdo/om/xpdoobject.class.php : 240) Error 42S22 executing statement: 
+Array
+(
+    [0] => 42S22
+    [1] => 1054
+    [2] => Unknown column 'sortorder' in 'order clause'
+)
+
+[2017-01-19 20:17:56] (ERROR @ /var/www/staticPageEnvdApi/core/xpdo/om/xpdoobject.class.php : 240) Error 42S22 executing statement: 
+Array
+(
+    [0] => 42S22
+    [1] => 1054
+    [2] => Unknown column 'sortorder' in 'order clause'
+)
+
+[2017-01-19 20:21:48] (ERROR @ /var/www/staticPageEnvdApi/core/xpdo/om/xpdoobject.class.php : 240) Error 42S22 executing statement: 
+Array
+(
+    [0] => 42S22
+    [1] => 1054
+    [2] => Unknown column 'sortorder' in 'order clause'
+)
+
+[2017-01-19 20:28:00] (ERROR @ /var/www/staticPageEnvdApi/core/model/modx/rest/modrestclient.class.php : 236) PHP warning: simplexml_load_string(): Entity: line 1: parser error : XML declaration allowed only at the start of the document
+[2017-01-19 20:28:00] (ERROR @ /var/www/staticPageEnvdApi/core/model/modx/rest/modrestclient.class.php : 236) PHP warning: simplexml_load_string(): Entity: line 1: parser error : ParsePI: PI xml space expected
+[2017-01-19 20:28:00] (ERROR @ /var/www/staticPageEnvdApi/core/model/modx/rest/modrestclient.class.php : 236) PHP warning: simplexml_load_string(): Entity: line 1: parser error : ParsePI: PI xml never end ...
+[2017-01-19 20:28:00] (ERROR @ /var/www/staticPageEnvdApi/core/model/modx/rest/modrestclient.class.php : 236) PHP warning: simplexml_load_string(): Entity: line 1: parser error : Start tag expected, '&lt;' not found
+[2017-01-19 20:28:00] (ERROR @ /var/www/staticPageEnvdApi/core/model/modx/rest/modrestclient.class.php : 241) Could not connect to provider at: http://rest.modx.com/extras/
+[2017-01-19 20:28:00] (ERROR in modTransportProvider::find @ /var/www/staticPageEnvdApi/core/model/modx/transport/modtransportprovider.class.php : 271) MODX получил пустой ответ от поставщика. Пожалуйста, проверьте URL-адрес поставщика и убедитесь, что поставщик является корректным поставщиком.
+[2017-01-19 20:28:00] (ERROR @ /var/www/staticPageEnvdApi/core/model/modx/rest/modrestclient.class.php : 236) PHP warning: simplexml_load_string(): Entity: line 1: parser error : XML declaration allowed only at the start of the document
+[2017-01-19 20:28:00] (ERROR @ /var/www/staticPageEnvdApi/core/model/modx/rest/modrestclient.class.php : 236) PHP warning: simplexml_load_string(): Entity: line 1: parser error : ParsePI: PI xml space expected
+[2017-01-19 20:28:00] (ERROR @ /var/www/staticPageEnvdApi/core/model/modx/rest/modrestclient.class.php : 236) PHP warning: simplexml_load_string(): Entity: line 1: parser error : ParsePI: PI xml never end ...
+[2017-01-19 20:28:00] (ERROR @ /var/www/staticPageEnvdApi/core/model/modx/rest/modrestclient.class.php : 236) PHP warning: simplexml_load_string(): Entity: line 1: parser error : Start tag expected, '&lt;' not found
+[2017-01-19 20:28:00] (ERROR @ /var/www/staticPageEnvdApi/core/model/modx/rest/modrestclient.class.php : 241) Could not connect to provider at: http://rest.modx.com/extras/
+[2017-01-19 20:28:00] (ERROR in modTransportProvider::find @ /var/www/staticPageEnvdApi/core/model/modx/transport/modtransportprovider.class.php : 271) MODX получил пустой ответ от поставщика. Пожалуйста, проверьте URL-адрес поставщика и убедитесь, что поставщик является корректным поставщиком.
